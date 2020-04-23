@@ -1,0 +1,4 @@
+极大似然估计: 1. https://blog.csdn.net/growoldwith_you/article/details/68923633?locationNum=4&fps=1
+             2. https://zhuanlan.zhihu.com/p/26614750
+先验概率，后验概率： https://blog.csdn.net/yangang908/article/details/62215209
+生成模型，判别模型： https://blog.csdn.net/u010358304/article/details/79748153：对模型的介绍比较笼统（缺少细节，适合有一定的基础再看）
