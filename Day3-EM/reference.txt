@@ -1,0 +1,2 @@
+李航统计学习方法代码 https://github.com/fengdu78/lihang-code
+EM算法：https://www.cnblogs.com/pinard/p/6912636.html
