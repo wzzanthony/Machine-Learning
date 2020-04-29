@@ -1,0 +1,2 @@
+软间隔最大化：https://blog.csdn.net/randompeople/article/details/104031825
+SVM 原理：https://blog.csdn.net/randompeople/article/details/90020648
